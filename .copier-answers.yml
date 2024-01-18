@@ -1,0 +1,5 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 1b21cd9
+_src_path: git@github.com:MantasPetrikasVinted/copier-playground.git
+image: slim-3.8
+version: '3.8'
